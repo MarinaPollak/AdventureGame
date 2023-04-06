@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FashionWise3", "FashionWise3.csproj", "{AD01A50D-BB7B-4D93-A5B3-E6D4D2EC833C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{639619ED-A02B-472D-8969-6121AB959C2B}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD01A50D-BB7B-4D93-A5B3-E6D4D2EC833C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD01A50D-BB7B-4D93-A5B3-E6D4D2EC833C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD01A50D-BB7B-4D93-A5B3-E6D4D2EC833C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD01A50D-BB7B-4D93-A5B3-E6D4D2EC833C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C81D2D0B-21F1-4B8C-9F86-E24BEDFC2E8E}
+	EndGlobalSection
+EndGlobal
